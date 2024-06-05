@@ -1,6 +1,3 @@
-Here is a README file based on the provided folder structure and the details of your project:
-
-```markdown
 # TrackVision
 
 TrackVision is a sophisticated object recognition and tracking application that uses the YOLOv8 model to detect and track objects (specifically people) in video streams. The project includes a Streamlit dashboard for interactive visualization.
