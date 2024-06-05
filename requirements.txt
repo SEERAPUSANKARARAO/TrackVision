@@ -1,0 +1,10 @@
+opencv-python
+pandas
+ultralytics
+cvzone
+Pillow
+numpy
+streamlit
+
+#for installation of local packages
+-e .
